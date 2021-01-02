@@ -1,2 +1,2 @@
 # Jacobi-GS-LaTeX-Research-Paper
-The final project for my numerical linear algebra class. Written in LaTeX and Matlab
+This was the final project for my numerical linear algebra class. The paper was intended to teach my classmates about the Jacobi and GS methods, and the live script was intended to teach students who had only taken linear algebra about the Jacobi and GS methods.  I worked on this project with a partner, but the the following sections were written entirely by me: Convergence Analysis, Conclusion, Matlab Code. The included Matlab live script was also written entirely by me.
